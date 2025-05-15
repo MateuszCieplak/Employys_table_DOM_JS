@@ -13,7 +13,6 @@ The "Employees Table" project is a task management app where users can manage a 
 ### Additional features:
 - **Form inputs**: The form has required fields for each employee, including a select input for the office location and numerical inputs for age and salary.
 - **Validation**: Notifications are shown if the form data is invalid, such as for an invalid name or age.
-- **Inline editing**: Users can double-click on a table cell to replace the text with an input field. Changes are saved when the input loses focus or when the "Enter" key is pressed.
 
 
 Result of my code:
