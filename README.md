@@ -1,7 +1,7 @@
 # Employees Table
 [Live Demo](https://mateuszcieplak.github.io/js_employees_table_DOM/)  
 
-The "Employees Table" project is a task management app where users can manage a list of employees in a table format. It includes features such as sorting the table, adding new employees via a form, and editing the table cells. The task focuses on implementing interactive features using vanilla JavaScript and DOM manipulation.
+The "Employees Table" project is a task management app where users can manage a list of employees in a table format. It includes features such as sorting the table and adding new employees via a form. The task focuses on implementing interactive features using vanilla JavaScript and DOM manipulation.
 
 ### Key features:
 - **Table sorting**: The table rows can be sorted in ascending or descending order by clicking on the table headers.
